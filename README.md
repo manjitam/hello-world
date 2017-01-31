@@ -1,2 +1,2 @@
 # hello-world
-Learning how to use github
+this is a commit message
